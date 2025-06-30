@@ -9,7 +9,33 @@ const config = {
     "https://i.top4top.io/p_34681xvzu2.jpg",
     "https://h.top4top.io/p_34687ah5d1.jpg"
   ],
-  
+  /*
+        ••JANGAN HAPUS INI••
+SCRIPT BY © VYNAA VALERIE 
+•• recode kasih credits 
+•• contacts: (6282389924037)
+•• instagram: @vynaa_valerie 
+•• (github.com/VynaaValerie) 
+
+• Menerima pembuatan script bot
+• Menerima perbaikan script atau fitur bot
+• Menerima pembuatan fitur bot
+• Menerima semua kebutuhan bot
+• Menerima pembuatan biolink premium 
+
+ℹ️ Information
+
+• Pembayaran bisa dicicil
+• Bisa bayar di awal atau akhir
+• Pembayaran melalu QRIS Only
+• Testimoni Banyak
+
+Aturan:
+1. Dilarang memperjualbelikan script ini.
+2. Hak cipta milik Vynaa Valerie.
+
+“Dan janganlah kamu makan harta di antara kamu dengan jalan yang batil, dan janganlah kamu membunuh dirimu sendiri. Sesungguhnya Allah adalah Maha Penyayang kepadamu.” (QS. Al-Baqarah: 188)
+*/
   buttons: [
     {
       icon: "https://img.icons8.com/color/48/000000/whatsapp--v1.png",
