@@ -1,4 +1,4 @@
-// Configuration - Easy to edit
+ok// Configuration - Easy to edit
 const config = {
   profile: {
     name: "I'm Clara",
@@ -6,7 +6,7 @@ const config = {
   },
   
   slides: [
-    "https://i.top4top.io/p_34681xvzu2.jpg",
+    "https://files.catbox.moe/vi1rnn.jpg",
     "https://h.top4top.io/p_34687ah5d1.jpg"
   ],
   /*
